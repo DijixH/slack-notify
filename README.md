@@ -1,3 +1,7 @@
+# Introduction
+
+This repo is a fork of [technosophos/slack-notify](https://github.com/technosophos/slack-notify) with multiarch build features.
+
 # Slack-Notify
 
 Slack-Notify is a very simple tool for sending a Slack notification via a
